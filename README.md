@@ -6,7 +6,7 @@ Aurora Boreal<br>
 </h1>
 
 <h2 align="center">
-<img src="github/Projeto.png" alt="Projeto" width="750">
+<img src="github/Projeto.png" alt="Projeto" width="950">
 </h2>
 
 ## :rocket:**Tecnologias**
@@ -15,4 +15,4 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 *  CSS
 
 ## :pencil:**Licença**
-Este projeto está sob a licença do MIT. Consulte a the [LICENSE](https://github.com/LuisRobertoAntunes/Aurora-Boreal/blob/main/LICENSE) para obter mais informações.
+Este projeto está sob a licença do MIT. Consulte a the [LICENSE](https://github.com/LuisRobertoAntunes/Aurora-Boreal/blob/main/github/LICENSE) para obter mais informações.
